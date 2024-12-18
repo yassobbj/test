@@ -1,0 +1,5 @@
+<h2>Albums archivés</h2>
+<div *ngFor="let album of archivedAlbums" class="album">
+  <img [src]="album.coverPicture" alt="Cover Picture">
+  <h3>{{ album.title }}</h3>
+</div>

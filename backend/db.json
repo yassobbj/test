@@ -1,0 +1,32 @@
+{
+  "Albums": [
+    {
+      "id": "7d6b",
+      "title": "Grand électroménager",
+      "creationDate": "Date",
+      "archived": "123",
+      "coverPicture": "string"
+    },
+    {
+      "title": "yassin",
+      "coverPicture": "jvfahedyjaveqk",
+      "id": 321,
+      "creationDate": "2024-12-18T10:12:51.602Z",
+      "archived": 0
+    },
+    {
+      "title": "test",
+      "coverPicture": "jvfahedyjaveqk",
+      "id": 32,
+      "creationDate": "2024-12-18T10:13:46.054Z",
+      "archived": 0
+    },
+    {
+      "title": "testy",
+      "coverPicture": "assets\\logo.jpg",
+      "id": 251,
+      "creationDate": "2024-12-18T10:14:57.494Z",
+      "archived": 0
+    }
+  ]
+}
